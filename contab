@@ -1,0 +1,1 @@
+1 0 * * * cd $PATH && source venv/bin/activate && export PYTHONPATH="${PYTHONPATH}:${PWD}" && python crawler.py
