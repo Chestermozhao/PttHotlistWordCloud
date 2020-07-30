@@ -5,13 +5,10 @@
 Ptt是當前台灣議題搞論風向標之一，也常被新聞取材，透過爬取熱門文章製作文字雲，可以快速了解熱門時事關鍵詞
 
 <p align="center">
-  <a href="https://github.com/psf/black">
-    <img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
-  </a>
   <p align="center">
     <br />
-      <a href="https://github.com/shaojintian/Best_README_template">
-        <strong>相關文章Link</strong>
+      <a href="https://medium.com/@b02310043/100%E8%A1%8Cpython-code%E8%BF%BD%E8%B9%A4ptt%E7%8F%BE%E5%9C%A8%E7%B4%85%E4%BB%80%E9%BA%BC-df96ee0e7fd7">
+        <strong>Medium Article</strong>
       </a>
     <br />
   </p>
